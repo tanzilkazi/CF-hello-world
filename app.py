@@ -3,7 +3,7 @@ from flask import Flask
 import os.path
 
 if os.path.isfile("setenv.py"):
-    print "I found it. I must be LOCAL"
+    print "I found it. I must be LOCAL, woohoo!"
     import setenv
 else:
     print "I must be running in PWS"

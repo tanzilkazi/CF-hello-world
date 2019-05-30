@@ -16,7 +16,7 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>Hello World!</h1><br/>
+    <center><h1>Hello World! again!</h1><br/>
     </body>
     </html>"""
 
